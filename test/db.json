@@ -1,0 +1,29 @@
+{
+  "psychologists": [
+    {
+      "name": "Dr. John Smith",
+      "score": 4.5,
+      "feedback:": "Very empathetic and insightful."
+    },
+    {
+      "name": "Dr. Jane Doe",
+      "score": 4.2,
+      "feedback:": "Professional but could be more engaging."
+    },
+    {
+      "name": "Dr. Emily Brown",
+      "score": 4.8,
+      "feedback:": "Very attentive and took time to explain everything clearly."
+    },
+    {
+      "name": "Dr. Michael Green",
+      "score": 4.0,
+      "feedback:": "Highly efficient and friendly."
+    },
+    {
+      "name": "Dr. Sarah White",
+      "score": 4.7,
+      "feedback:": "Professional, patient, and very easy to talk to."
+    }
+  ]
+}
